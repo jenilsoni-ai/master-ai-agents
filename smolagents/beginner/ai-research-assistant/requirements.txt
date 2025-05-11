@@ -1,0 +1,4 @@
+smolagents
+duckduckgo-search
+python-dotenv
+pwinput 
