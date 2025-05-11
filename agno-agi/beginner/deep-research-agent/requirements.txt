@@ -1,9 +1,0 @@
-agno
-openai
-psycopg
-firecrawl
-streamlit
-sqlalchemy
-python-dotenv
-fastapi[standard]
-
