@@ -16,7 +16,6 @@ Browse a variety of AI-powered applications, organized by framework and use case
   - [Multi-Domain Research Agent](https://github.com/jenilsoni-ai/master-ai-agents/tree/main/openai-agents-sdk/beginner/multi-domain-research-agent): Researches across multiple domains using OpenAI APIs.
 - **Intermediate**
   - [LinkedIn Agency Outreach System](https://github.com/jenilsoni-ai/master-ai-agents/tree/main/openai-agents-sdk/intermediate/linkedin-agency-outreach-system): Automates LinkedIn outreach for agencies.
-  - [Multi-Agent Book Writing System](https://github.com/jenilsoni-ai/master-ai-agents/tree/main/openai-agents-sdk/intermediate/multi-agent-book-writing-system): Collaborative book writing with multiple AI agents.
 - **Advanced**
   - [Startup Idea Validator System](https://github.com/jenilsoni-ai/master-ai-agents/tree/main/openai-agents-sdk/advanced/startup-idea-validator-system): Validates startup ideas using advanced agent workflows.
 
